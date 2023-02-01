@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sudippdn
-- 👀 I’m interested in programmng nad to be stablished as a succeful developer.
-- 🌱 I’m currently learning C and dart language.
+- 👀 I’m interested in programming and to be stablished as a successful developer.
+- 🌱 I’m currently learning C, C++ and python programming language.
 
 <!---
 Sudippdn/Sudippdn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
