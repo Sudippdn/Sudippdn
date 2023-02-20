@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sudippdn
-- 👀 You can contact me through sudip.pradhan321@gmail.com
+- 👀 You can contact me through [Gmail](sudip.pradhan321@gmail.com)
 - 🌱 I’m currently learning C, C++ and python programming language.
+- You can also visit my [Portfolio](sudippradhan.com.np)
 
 
 
