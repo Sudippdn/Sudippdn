@@ -5,7 +5,8 @@
 
 
 - 👨‍💻 All of my projects are available at [sudippradhan.com.np](here)
-- [sudippradhan.com.np]here(portfolio)
+- [sudippradhan.com.np](portfolio)
+- [portfolio](sudippradhan.com.np)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
