@@ -5,6 +5,7 @@
 
 
 - 👨‍💻 All of my projects are available at <a link href="sudippradhan.com.np">portfolio</a>
+-  you can visit my portfolio at [sudippradhan.com.np](sudippradhan.com.np)
 
 
 <h3 align="left">Connect with me:</h3>
