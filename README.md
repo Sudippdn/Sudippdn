@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudippdn&label=Profile%20views&color=0e75b6&style=flat" alt="sudippdn" /> </p>
 
 
-- 👨‍💻 All of my projects are available at <link href="sudippradhan.com.np">a</link>
+- 👨‍💻 All of my projects are available at <link href="sudippradhan.com.np">portfolio</link>
 
 
 <h3 align="left">Connect with me:</h3>
