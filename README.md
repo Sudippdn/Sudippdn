@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudip Pradhan</h1>
 <h3 align="center">Data Science and Machine Learning enthusiast</h3>
-<img align ="right" alt="coding" width=400px src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align ="right" alt="coding" width=400px src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif", width = "400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudippdn&label=Profile%20views&color=0e75b6&style=flat" alt="sudippdn" /> </p>
 
 
@@ -30,6 +30,6 @@
  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudippdn&show_icons=true&locale=en" alt="sudippdn"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudippdn&" alt="sudippdn" /></p>
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudippdn&" alt="sudippdn" height = "450", width = "450" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudippdn&show_icons=true&locale=en" alt="sudippdn"height = "300", width = "200"/></p>
