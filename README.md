@@ -33,5 +33,5 @@
 <p>
 <img width=400px src="https://github-readme-streak-stats.herokuapp.com/?user=sudippdn&" alt="sudippdn" />
 &nbsp;
-<img width=200px src="https://github-readme-stats.vercel.app/api?username=sudippdn&show_icons=true&locale=en" alt="sudippdn"/>
+<!-- <img width=200px src="https://github-readme-stats.vercel.app/api?username=sudippdn&show_icons=true&locale=en" alt="sudippdn"/> -->
 </p>
