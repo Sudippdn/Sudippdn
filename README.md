@@ -30,8 +30,8 @@
  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 </p>
 
-<p>
-<img width=400px src="https://github-readme-streak-stats.herokuapp.com/?user=sudippdn&" alt="sudippdn" />
-&nbsp;
+<!-- <p> -->
+<!-- <img width=400px src="https://github-readme-streak-stats.herokuapp.com/?user=sudippdn&" alt="sudippdn" /> -->
+<!-- &nbsp; -->
 <!-- <img width=200px src="https://github-readme-stats.vercel.app/api?username=sudippdn&show_icons=true&locale=en" alt="sudippdn"/> -->
-</p>
+<!-- </p> -->
